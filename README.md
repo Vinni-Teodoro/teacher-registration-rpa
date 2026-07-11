@@ -1,6 +1,9 @@
 # 🎓 Teacher Registration RPA
 
 > Automação desenvolvida em **Python** para otimizar o cadastro e vínculo de docentes em um ERP acadêmico, reduzindo drasticamente o tempo operacional e eliminando tarefas repetitivas.
+> <p align="center">
+  <img src="./images/Banner.png" width="90%">
+</p>
 
 ---
 
@@ -43,7 +46,7 @@ Foi desenvolvido um **RPA em Python** que:
 # 🏗 Arquitetura da Solução
 
 <p align="center">
-  <img src="./images/architecture.png" width="90%">
+  <img src="./images/Architecture.png" width="90%">
 </p>
 
 Fluxo da automação:
